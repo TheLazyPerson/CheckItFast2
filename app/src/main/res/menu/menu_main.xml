@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.viit.droid.checkitfast.MainActivity">
+
+        <item android:title="Create New Checklist"
+            android:id="@+id/action_create"
+            android:icon="@android:drawable/ic_input_add"
+            app:showAsAction="always"
+            android:visible="true" />
+
+
+    </menu>
